@@ -1,0 +1,30 @@
+body 
+{
+    background-color: aqua; 
+}
+#score
+{
+font-size: 20px;
+margin: left;
+}
+#timer
+{
+   font-size: 20px;
+   float: right; 
+   margin: right; 
+}
+
+#sketch
+{
+    color: white; 
+}
+h1
+{
+    color:rgb(38, 0, 255);
+    background-color: cornsilk; 
+}
+p
+{
+    padding-top:10px;
+    font-size: 25px;
+}
